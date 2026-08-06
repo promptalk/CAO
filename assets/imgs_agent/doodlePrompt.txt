@@ -1,0 +1,9 @@
+실제 물건과 손으로 그린 ​​낙서를 활용한 창의적인 광고
+참고: 프롬프트의 [실제 사물], [두들 컨셉], [광고 문구], [브랜드 로고]를 구체적인 내용으로 바꾸세요. 
+예: [실제 사물]: 커피콩 
+[두들 컨셉]: 거대한 커피콩이 우주 행성이 되고, 작은 우주인이 표면에 깃발을 꽂고 있습니다. 
+[광고 문구]: "대담한 맛을 탐험하세요" 
+[브랜드 로고]: 스타벅스 로고
+
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
